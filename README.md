@@ -1,4 +1,7 @@
-# api documentation for  [mongo-hacker (v0.0.15)](http://tylerbrock.github.io/mongo-hacker/)  [![npm package](https://img.shields.io/npm/v/npmdoc-mongo-hacker.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mongo-hacker) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mongo-hacker.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mongo-hacker)
+# npmdoc-mongo-hacker
+
+#### basic api documentation for  [mongo-hacker (v0.0.15)](http://tylerbrock.github.io/mongo-hacker/)  [![npm package](https://img.shields.io/npm/v/npmdoc-mongo-hacker.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mongo-hacker) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mongo-hacker.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mongo-hacker)
+
 #### MongoDB Shell Enhancements for Hackers
 
 [![NPM](https://nodei.co/npm/mongo-hacker.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mongo-hacker)
@@ -59,7 +62,8 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "update": "make install"
     },
-    "version": "0.0.15"
+    "version": "0.0.15",
+    "bin": {}
 }
 ```
 
